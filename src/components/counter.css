@@ -1,0 +1,33 @@
+.check {
+  color: tomato;
+}
+.red {
+  color: red;
+  margin-left: 8px;
+}
+.green {
+  color: green;
+  margin-left: 8px;
+}
+.counter {
+  font-size: 30px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+.counter-btn{
+   display: flex;
+   justify-content: center;
+}
+.ctr-btn{
+    border: 0px;
+    margin: 10px 20px;
+    padding: 8px 16px;
+    background-color: bisque;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.ctr-btn:hover{
+    background-color: rgb(250, 159, 56);
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
